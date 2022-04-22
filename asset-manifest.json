@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/css/main.e699f982.chunk.css",
+    "main.js": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/js/main.ee87dc9c.chunk.js",
+    "main.js.map": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/js/main.ee87dc9c.chunk.js.map",
+    "runtime-main.js": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/js/runtime-main.f27d1d43.js",
+    "runtime-main.js.map": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/js/runtime-main.f27d1d43.js.map",
+    "static/js/2.726f2669.chunk.js": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/js/2.726f2669.chunk.js",
+    "static/js/2.726f2669.chunk.js.map": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/js/2.726f2669.chunk.js.map",
+    "static/js/3.3b29d97b.chunk.js": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/js/3.3b29d97b.chunk.js",
+    "static/js/3.3b29d97b.chunk.js.map": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/js/3.3b29d97b.chunk.js.map",
+    "index.html": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/index.html",
+    "static/css/main.e699f982.chunk.css.map": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/css/main.e699f982.chunk.css.map",
+    "static/js/2.726f2669.chunk.js.LICENSE.txt": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/js/2.726f2669.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/https://github.com/TheGreatKAN/SifuInu_NFT_Minting_Dapp.git/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f27d1d43.js",
+    "static/js/2.726f2669.chunk.js",
+    "static/css/main.e699f982.chunk.css",
+    "static/js/main.ee87dc9c.chunk.js"
+  ]
+}
